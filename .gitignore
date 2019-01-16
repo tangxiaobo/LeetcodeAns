@@ -45,3 +45,6 @@ target/
 
 # logs
 logs/
+
+# out
+/out
